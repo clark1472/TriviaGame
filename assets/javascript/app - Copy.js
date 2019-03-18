@@ -16,8 +16,7 @@ var allQuestions = [{
 var currentquestion = 0;
 var viewingAns = 0;
 var correctAnswers = 0;
-//timer start 
-var c=10;
+var c=30;
 var t;
 
 //set up of questions and choices 
@@ -44,11 +43,11 @@ function checkAns() {
 
 function EndGame()
   {
-    $(".jumbotron").hide();
-    $("#result").html("You correctly answered " + correctAnswers + " out of " + allQuestions.length + " questions! ").hide();
-    $("#result").show();
-    c=3333;    
-    return false;
+      $(".jumbotron").hide();
+      $("#result").html("You correctly answered " + correctAnswers + " out of " + allQuestions.length + " questions! ").hide();
+      $("#result").show();
+      c=185;    
+      return false;
 }
 
 //document is ready to push start button
@@ -88,7 +87,7 @@ $("#next").click(function() {
 
 function timedCount()
   {
-    if(c == 3333)
+    if(c == 185)
     {
       return false;
     }

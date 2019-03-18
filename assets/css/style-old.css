@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/*.bg {
+    /The image used/
+    background-image: url("../images/stargate-open.jpg");
+    height: 100%;
+    /Center and scale the image nicely /
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+*/
+.StargateHeader {
+    height: 100px;
+    width: 300px;
+    background-color: brown;
+    color:  white;
+    text-align: center;
+    line-height: 100px;
+    margin: 10px;
+}
