@@ -57,7 +57,7 @@ body {
 
 img {
     height:700px;
-    width: 1400px;
+    width: 1000px;
     filter: brightness(110%);
 }
 
@@ -78,7 +78,8 @@ img {
 }
 h1 {
   font-size: 20vw;
-
+  padding-top: 30px;
+  margin-bottom: 20px;
   font-family: sans-serif;
   /*'Chonburi', cursive;*/
 }
