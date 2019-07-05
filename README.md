@@ -9,6 +9,7 @@ When player finishes questions or runs out of time, game ends.
 Then page shows player time remaining, the correct answers number and incorrect answer number.
 
 # To pull up game use this link for: 
-Trivia Game Stargate
+
+Trivia Game Stargate-SG1
 
 https://clark1472.github.io/TriviaGame/
