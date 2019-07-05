@@ -110,11 +110,5 @@ function timedCount()
 			  timedCount()
 		  },1000);
 	}
-	
 
 });
-
-
-
-
-
