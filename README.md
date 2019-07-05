@@ -10,6 +10,4 @@ Then page shows player time remaining, the correct answers number and incorrect 
 
 # To pull up game use this link for: 
 
-Trivia Game Stargate-SG1
-
-https://clark1472.github.io/TriviaGame/
+[Trivia Game Stargate-SG1](https://clark1472.github.io/TriviaGame/)

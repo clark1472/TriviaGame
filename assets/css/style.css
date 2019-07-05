@@ -71,7 +71,7 @@ img {
     margin: 10px;
     margin: auto;
     position: absolute;
-    top: 25%;
+    top: 235px;
     left: 50%;
     transform: translate(-50%, -25%);
     border-radius: 50%;
@@ -134,7 +134,9 @@ div.well.jumbotron{
     border-radius: 20% 20% 50% 50%;
 }
 
-
+#timer {
+ font-size: 25px;
+}
 
 
 
